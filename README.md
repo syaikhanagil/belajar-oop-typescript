@@ -22,7 +22,11 @@ npm install .
 ```
 
 Jalankan project menggunakan [Deno](https://deno.land/)
-
 ```groovy
-deno run index.ts
+deno run src/[nama_file].ts
+```
+
+Contoh:
+```groovy
+deno run src/01_class.ts
 ```
